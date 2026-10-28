@@ -1,0 +1,5 @@
+git init
+git config --global user.name "Edisander Silva"
+git config --global user.email "edisander.silva@aluno.senai.br"
+git add .
+git commit -m "feat:   "
